@@ -1,5 +1,1 @@
-const Find = () =>{
-	return <a>hello<a/>
-}
-
-exp ...
+남소연이라 죄송합니다
